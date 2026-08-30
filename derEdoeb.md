@@ -13,12 +13,19 @@
  - Im Bundesgesetz über den Datenschutz
 
 **Wofür ist er zuständig und wofür nicht? Welche Funktionen hat er und welche nicht?**
- ### Zuständig: ### 
-  - Datenschutz bei privaten, bundesnahen Unternehmen, sowie Vereine. Beratung bei Bürger/-innen
+ ### Zuständig/Funktionen: ### 
+  - Datenschutz bei privaten, bundesnahen Unternehmen, sowie Vereine
+  - Beratung bei Bürger/-innen mit Fragen zum Datenschutz
+  - Informiert und sensibilisiert die Öffentlichkeit
+  - Schnittstelle/Übermittler, wenn jemand Zugang zu amtlichen Dokumenten des Bundes verlangt und die Behörde dies ablehnt oder einschränkt
+  - Empfehlungen abgeben
 ### Nicht Zuständig: ### 
   - Datenschutz bei kantonaler Polizei und Schulen
   - Datenschutz bei Gemeinden und Kantone
   - Strafurteile
+  - Gerichtsentscheide treffen
+  - Strafverfahren führen
+
 **Was sind seine "Baustellen" (woran arbeitet er?)**
  - Am Datenschutz und an der Datensicherheit bei verschiedenen Apps. Datenhinterlegung (Daten sobald nicht mehr nötig löschen) und Biometrische Daten sind problematisch.
 

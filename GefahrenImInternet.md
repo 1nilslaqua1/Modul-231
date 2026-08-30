@@ -22,7 +22,10 @@
 
 LEITFRAGEN:
 
-Wie grenzen sich die Begriffe voneinander ab? Welche Gemeinsamkeiten verbergen sich dahinter? 
-Bei welchen der oben aufgelisteten Angriffe handelt es sich um Phishing im weitesten Sinne? 
-Was ist die Zielgruppe der einzelnen Angriffe? 
-Auf welche Arten von Informationen haben es die Angreifer bei den unterschiedlichen Angriffen typischerweise abgesehen?
+ - Wie grenzen sich die Begriffe voneinander ab? Welche Gemeinsamkeiten verbergen sich dahinter?
+
+ - Bei welchen der oben aufgelisteten Angriffe handelt es sich um Phishing im weitesten Sinne? 
+
+ - Was ist die Zielgruppe der einzelnen Angriffe? 
+
+ - Auf welche Arten von Informationen haben es die Angreifer bei den unterschiedlichen Angriffen typischerweise abgesehen?

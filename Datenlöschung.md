@@ -16,9 +16,11 @@
 -In welchen Fällen können Sie Ihr Recht auf Löschen durchsetzen und wann greifen übergeordnete Interessen bzw. rechtliche Forderungen, die Ihr Recht auf Löschen ausser Kraft setzen?
 
 Daten dürfen mit ihrem Recht gelöscht werden, wenn:
+ 
  -Die Daten nicht mehr für den ursprünglichen Zweck verwendet werden
  - Daten unrechtmässig verarbeitet werden
 Datenlöschung wird verhindert durch:
+
  - Gesetzliche, vrtragliche oder rechtliche Pflicht
 
 ## Backup = kurzfristige Speicherung, ideal zur Wiederherstellung

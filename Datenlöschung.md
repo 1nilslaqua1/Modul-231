@@ -20,7 +20,7 @@ Daten dürfen mit ihrem Recht gelöscht werden, wenn:
  - Daten unrechtmässig verarbeitet werden
 
 Datenlöschung wird verhindert durch:
- - Gesetzliche, vrtragliche oder rechtliche Pflicht
+ - Gesetzliche, vertragliche oder rechtliche Pflicht
 
 ## Backup = kurzfristige Speicherung, ideal zur Wiederherstellung
 ## Archiv = langfristiges Speichern, sollte unveränderbar sein

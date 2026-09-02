@@ -26,3 +26,15 @@
 -Französisch: avertissement
 -Italienisch: disclaimer
 -Spanisch: aviso
+
+**Aufgabe 6: Was bedeutet / was ist ein "Disclaimer" und warum macht man sowas auf eine Internetauftritt (Homepage, Website)?**
+-Erklärung, bei der sich der Inhaber einer Webseite von bestimmten Inhalten distanziert
+-Dass Leute bescheid wissen
+
+**Aufgabe 7: Was bedeuten die drei Buchstaben "AGB" und was steht da so in Etwa drin? Machen Sie in 3-4 ausgeschriebenen Sätzen eine kleine selbstgeschriebene Zusammenfassung.**
+-AGB steht für Allgemeine Geschäfts Bedingungen. Es ist eine Vertragsbedingung. Dort stehen Punkte drin, die für die Geschäftsbeziehung relevant sind. Klassisch sind auch die Informationen über die Nutzung der Daten.
+
+**Aufgabe 8: Zeigen Sie 3 verschiedene Links auf AGB's von Firmen oder auch Vorlagen von AGBs für den eigenen Gebrauch. (bei Abgabe gleicher Links wie Ihre Schulkolleg:innen wird die Aufgabe zur Überarbeitung zurückgegeben)**
+- https://www.amazon.de/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+- https://www.digitec.ch/de/wiki/478
+- https://support.migros.ch/hc/de/articles/4407834469266-Allgemeine-Gesch%C3%A4ftsbedingungen

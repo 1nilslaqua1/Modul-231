@@ -22,14 +22,14 @@
 
 ## LEITFRAGEN:
 
-Wie grenzen sich die Begriffe voneinander ab? Welche Gemeinsamkeiten verbergen sich dahinter?
+**Wie grenzen sich die Begriffe voneinander ab? Welche Gemeinsamkeiten verbergen sich dahinter?**
   - Es sind alles Methoden um illegal an Daten zu kommen, die Wege um an die Daten zu kommen, ist dabei unterschiedlich.
    
-Bei welchen der oben aufgelisteten Angriffe handelt es sich um Phishing im weitesten Sinne? 
+**Bei welchen der oben aufgelisteten Angriffe handelt es sich um Phishing im weitesten Sinne?** 
   - Pharming, im Grunde genommen alle.
-Was ist die Zielgruppe der einzelnen Angriffe? 
+**Was ist die Zielgruppe der einzelnen Angriffe?** 
   - Entweder einzelne Personen, Personengruppen, bekannte/ hochkräftige Personen, Unternehmen oder Firmen
    
-Auf welche Arten von Informationen haben es die Angreifer bei den unterschiedlichen Angriffen typischerweise abgesehen?
+**Auf welche Arten von Informationen haben es die Angreifer bei den unterschiedlichen Angriffen typischerweise abgesehen?**
   - Persönliche Daten oder eben Zugangsdaten zu Webseiten, Konten, usw.
   - (Streng) vertrauliche Daten

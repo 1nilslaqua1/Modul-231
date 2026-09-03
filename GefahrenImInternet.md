@@ -27,6 +27,7 @@
    
 **Bei welchen der oben aufgelisteten Angriffe handelt es sich um Phishing im weitesten Sinne?** 
   - Pharming, im Grunde genommen alle.
+
 **Was ist die Zielgruppe der einzelnen Angriffe?** 
   - Entweder einzelne Personen, Personengruppen, bekannte/ hochkräftige Personen, Unternehmen oder Firmen
    

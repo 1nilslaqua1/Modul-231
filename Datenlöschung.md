@@ -27,3 +27,9 @@ Datenlöschung wird verhindert durch:
 
 
 Quellen: sicher-hoch-drei, Datenschutz PRAXIS,
+
+
+
+
+"Löschen sie die Daten" man kann die Daten auch nur anonymisieren
+ich darf keine frist nennen bis wann ich die auskunft über meine daten haben will

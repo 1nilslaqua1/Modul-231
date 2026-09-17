@@ -31,5 +31,39 @@ Quellen: sicher-hoch-drei, Datenschutz PRAXIS,
 
 
 
-"Löschen sie die Daten" man kann die Daten auch nur anonymisieren
+-"Löschen sie die Daten" man kann die Daten auch nur anonymisieren
 ich darf keine frist nennen bis wann ich die auskunft über meine daten haben will
+
+**Meine Rechte 1**
+
+-Ob sie überhaupt Daten über dich hat
+
+-Welche Daten genau
+
+-Wofür sie diese nutzt
+
+-Woher die Daten stammen
+
+-An wen sie die Daten weitergibt
+
+-Wie lange sie die Daten speichert
+
+-Ob Daten ins Ausland übertragen werden
+
+-Firmen müssen dir innerhalb von ca. 30 Tagen antworten.
+
+-Du darfst verlangen, dass eine Firma deine Daten löscht, wenn:
+
+**Meine Rechte 2**
+
+-die Daten nicht mehr gebraucht werden
+
+-die Bearbeitung unrechtmässig ist
+
+-der ursprüngliche Zweck wegfällt
+
+-Die Firma muss dann löschen – aber nicht immer vollständig, denn:
+
+-gesetzliche Aufbewahrungspflichten (z. B. 10 Jahre Buchhaltung) gehen vor
+
+-manchmal gibt es überwiegende Interessen der Firma

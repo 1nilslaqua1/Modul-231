@@ -38,3 +38,21 @@
 - https://www.amazon.de/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
 - https://www.digitec.ch/de/wiki/478
 - https://support.migros.ch/hc/de/articles/4407834469266-Allgemeine-Gesch%C3%A4ftsbedingungen
+
+
+
+**Rechtliches zu Cookies**
+
+-Rechtliches zu Cookies – Zusammenfassung
+Cookies sind kleine Dateien, die Informationen über das Verhalten von Website‑Besuchern speichern. Rechtlich werden sie in der Schweiz und der EU unterschiedlich behandelt.
+
+-Schweiz (DSG)
+In der Schweiz besteht keine Pflicht, Cookie‑Banner einzusetzen. Webseitenbetreiber müssen jedoch transparent informieren, welche Cookies verwendet werden und zu welchem Zweck. Diese Informationen gehören in die Datenschutzerklärung.
+Notwendige Cookies dürfen ohne Einwilligung gesetzt werden, Tracking‑ oder Analyse‑Cookies müssen klar erklärt werden, benötigen aber keine ausdrückliche Zustimmung.
+
+-EU (DSGVO + ePrivacy‑Richtlinie)
+In der EU gilt eine Einwilligungspflicht für alle Cookies, die nicht technisch notwendig sind. Dazu gehören insbesondere Tracking‑, Marketing‑ und Analyse‑Cookies.
+Die Einwilligung erfolgt über ein Cookie‑Banner, das klar, verständlich und freiwillig sein muss. Nutzer müssen Cookies ebenso leicht ablehnen wie akzeptieren können.
+
+-Notwendige Cookies
+Technisch zwingende Cookies – etwa für Logins, Warenkörbe oder Sicherheitsfunktionen – dürfen sowohl in der Schweiz als auch in der EU ohne Einwilligung gesetzt werden.

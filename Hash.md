@@ -13,6 +13,6 @@ Wenn man nun einen zweiten Smoothie dazu giessen will, erkennt er nicht die Zuta
 -Beim Besuchen einer Webseite wird ein Hash für den Browser erstellt, aus ganz vielen, detaillierten Daten, die sich immer irgendwie unterscheiden.
 Bei einem späteren besuch wird der Hash überprüft und somit bekommt man Zugang auf die Webseite.
 
-**Merksatz**
+**Merksatz:**
 Hash = Fingerabdruck.
 Er erkennt nicht den Inhalt – nur, ob zwei Fingerabdrücke identisch sind.

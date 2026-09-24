@@ -18,3 +18,4 @@ Bei einem späteren besuch wird der Hash überprüft und somit bekommt man Zugan
 **Merksatz:**
 Hash = Fingerabdruck.
 Er erkennt nicht den Inhalt – nur, ob zwei Fingerabdrücke identisch sind.
+Es gilt für alle möglichen Dateien, Passwörter oder auch WhatsApp Nachrichten oder andere Messenger-Dienste.

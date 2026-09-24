@@ -1,12 +1,12 @@
-#Authentifizierung#
+# Authentifizierung #
 - Authentifizierung nennt man den Prozess, bei einem Login. Beispiel: Benutzerlogin am PC.
 - Dabei wird ein Benutzer einer bestimmten Personzugeordnet
 
-#Autorisierung#
+# Autorisierung #
 - Bei der Autorisierung wird überprüft, welche (Zugriffsrechte)-Rechte ein Benutzer im entsprechenden Netzwerk hat.
 - Als Beispiel: Darf er Software selbstständig installieren
 
-##Aufgabe##
+## Aufgabe ##
 "Ordnen Sie die folgenden Aussagen die Begriffe Authentifizierung und Autorisierung zu."
 
 "Peter hat das Recht auf den Ordner Geschäftsprozesse zuzugreifen." **Autorisierung**
@@ -18,6 +18,6 @@ RADIUS Server **Authentifizierung**
 "Permission denied." **Autorisierung**
 "Für das Online-Banking benötige ich mein Benutzername, mein Passwort und das Foto-TAN App." **Authentifizierung**
 
-##Merksatz##
+## Merksatz ##
 - Authentifizierung = Wer bist du?  
 - Autorisierung = Was darfst du?

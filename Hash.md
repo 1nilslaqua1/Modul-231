@@ -1,4 +1,4 @@
-**Warum ist Hash sicher?**
+## Warum ist Hash sicher? ##
 -Das System sieht nie dein echtes Passwort
 
 -Ein Angreifer kann aus dem Hash nicht zurückrechnen, was du eingegeben hast
@@ -15,7 +15,7 @@ Wenn man nun einen zweiten Smoothie dazu giessen will, erkennt er nicht die Zuta
 -Beim Besuchen einer Webseite wird ein Hash für den Browser erstellt, aus ganz vielen, detaillierten Daten, die sich immer irgendwie unterscheiden.
 Bei einem späteren besuch wird der Hash überprüft und somit bekommt man Zugang auf die Webseite.
 
-**Merksatz:**
+## Merksatz: ##
 Hash = Fingerabdruck.
 Er erkennt nicht den Inhalt – nur, ob zwei Fingerabdrücke identisch sind.
 Es gilt für alle möglichen Dateien, Passwörter oder auch WhatsApp Nachrichten oder andere Messenger-Dienste.

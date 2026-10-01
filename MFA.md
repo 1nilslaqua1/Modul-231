@@ -8,4 +8,4 @@ Man kann es schon ableiten und ahnen: Bei 2FA werden 2 dieser **Faktoren** verwe
 
 Bei der 3 Faktor Authentifizierung ist es entsprechend 1 **Faktor** mehr, mit dem man sich einloggen kann.
 
-Multi-Faktor-Authentifizierung werden meist bei der Einrichtung de Kontos abgeschlosen, können aber im Nachhinein auch noch erstellt und Konfiguriert werden.
+Multi-Faktor-Authentifizierung werden meist bei der Einrichtung de Kontos abgeschlosen, können aber im Nachhinein auch noch erstellt und konfiguriert werden.

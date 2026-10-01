@@ -39,8 +39,10 @@ So, dass andere den veränderten Teil sehen können.
 
 im App-Store eine zu bezahlende App heunterlädt und installiert?
 - proprietäre Lizenz
+
 im App-Store eine Gratis-App heunterlädt und installiert?
 - Freeware Lizenz
+
 Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben? Wenn Sie es nicht wissen, ob Sie extra bezahlt haben, wie und wann bezahlen Sie?
 Der Preis für die Software ist tendenziell im Verkaufspreis des Smartphones inkludiert.
 

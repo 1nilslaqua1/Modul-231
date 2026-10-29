@@ -20,18 +20,18 @@ und er kann auch automatisch Passwörter generieren.
 
 ### Überprüfung der Kriterien:
 **Keepass**, Lastpass und 1Password
-**Keepass**: kostenlos, Authentifizierung durch Programme wie Google Authenticator **(ohne Benutzername)**, Passwort-Datenbank wird **lokal** gespeichert, hat automatische Sperre
-Lastpass: kostenlos, Authentifizierung durch Programme wie Google AUthenticator (mit Benutzername), Passwort-Datenbank wird in der Cloud gespeichert, hat automatische Sperre
-1Password: ab 3$ im Monat, Authentifizierung durch Programme wie Google Authenticator (mit Benutzername), Passwort-Datenbank in der Cloud gespeichert, hat automatische Sperre
+-**Keepass**: kostenlos, Authentifizierung durch Programme wie Google Authenticator **(ohne Benutzername)**, Passwort-Datenbank wird **lokal** gespeichert, hat automatische Sperre
+-Lastpass: kostenlos, Authentifizierung durch Programme wie Google AUthenticator (mit Benutzername), Passwort-Datenbank wird in der Cloud gespeichert, hat automatische Sperre
+-1Password: ab 3$ im Monat, Authentifizierung durch Programme wie Google Authenticator (mit Benutzername), Passwort-Datenbank in der Cloud gespeichert, hat automatische Sperre
 
-**Vorteil von Keepass:** Datenbank wird unter anderem lokal gespeichert
-**Nachteil von Keepass:** Keine Passwortwiederherstellung (Masterpasswort)
+-**Vorteil von Keepass:** Datenbank wird unter anderem lokal gespeichert
+-**Nachteil von Keepass:** Keine Passwortwiederherstellung (Masterpasswort)
 
 
 ### Gedanken schildern:
-**Was tun Sie, wenn Sie ihr Master-Passwort vergessen?** Im Worst-Case habe ich keine andere Wahl als einen neuen Passwortmanager einzurichten bzw. eine neue Datenbank.
-**Wie erstellen Sie ein Backup von Ihrer Passwortdatenbank?** Alle Dateien oder evt. nur einen Dateienordner in der Cloud speichern (oder auf einen USB-Stick laden).
-**Wenn Sie ein Cloud Dienst verwenden: Was tun Sie, wenn Sie keinen Zugriff auf Ihren Account mehr haben?** Die 3-2-1 Methode: 3 Kopien der Daten, 2 verschiedene Speichermedien, 1 Kopie an einem anderen Ort
+-**Was tun Sie, wenn Sie ihr Master-Passwort vergessen?** Im Worst-Case habe ich keine andere Wahl als einen neuen Passwortmanager einzurichten bzw. eine neue Datenbank.
+-**Wie erstellen Sie ein Backup von Ihrer Passwortdatenbank?** Alle Dateien oder evt. nur einen Dateienordner in der Cloud speichern (oder auf einen USB-Stick laden).
+-**Wenn Sie ein Cloud Dienst verwenden: Was tun Sie, wenn Sie keinen Zugriff auf Ihren Account mehr haben?** Die 3-2-1 Methode: 3 Kopien der Daten, 2 verschiedene Speichermedien, 1 Kopie an einem anderen Ort
 Also eben z.B. Lokal, Cloud und USB Stick. Wenn ich das nicht mache, habe ich den Passwortmanager ebenfalls wie beim vergessenen Masterpasswort endgültig verloren.
 
 

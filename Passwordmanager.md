@@ -24,6 +24,9 @@ und er kann auch automatisch Passwörter generieren.
 Lastpass: kostenlos, Authentifizierung durch Programme wie Google AUthenticator (mit Benutzername), Passwort-Datenbank wird in der Cloud gespeichert, hat automatische Sperre
 1Password: ab 3$ im Monat, Authentifizierung durch Programme wie Google Authenticator (mit Benutzername), Passwort-Datenbank in der Cloud gespeichert, hat automatische Sperre
 
+**Vorteil von Keepass:** Datenbank wird unter anderem lokal gespeichert
+**Nachteil von Keepass:** Keine Passwortwiederherstellung (Masterpasswort)
+
 
 ### Gedanken schildern:
 **Was tun Sie, wenn Sie ihr Master-Passwort vergessen?** Im Worst-Case habe ich keine andere Wahl als einen neuen Passwortmanager einzurichten bzw. eine neue Datenbank.

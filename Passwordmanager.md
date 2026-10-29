@@ -18,7 +18,7 @@ Auslösende Kriterien bei mir: Kostenlos, lokale Datenbank, kompatibel mit MacOS
 und er kann auch automatisch Passwörter generieren.
 
 
-### Überprüfung der Kriterien:
+## Überprüfung der Kriterien:
 **Keepass**, Lastpass und 1Password
 - **Keepass**: kostenlos, Authentifizierung durch Programme wie Google Authenticator **(ohne Benutzername)**, Passwort-Datenbank wird **lokal** gespeichert, hat automatische Sperre
 - Lastpass: kostenlos, Authentifizierung durch Programme wie Google AUthenticator (mit Benutzername), Passwort-Datenbank wird in der Cloud gespeichert, hat automatische Sperre
@@ -28,7 +28,7 @@ und er kann auch automatisch Passwörter generieren.
 - **Nachteil von Keepass:** Keine Passwortwiederherstellung (Masterpasswort)
 
 
-### Gedanken schildern:
+## Gedanken schildern:
 - **Was tun Sie, wenn Sie ihr Master-Passwort vergessen?** Im Worst-Case habe ich keine andere Wahl als einen neuen Passwortmanager einzurichten bzw. eine neue Datenbank.
 - **Wie erstellen Sie ein Backup von Ihrer Passwortdatenbank?** Alle Dateien oder evt. nur einen Dateienordner in der Cloud speichern (oder auf einen USB-Stick laden).
 - **Wenn Sie ein Cloud Dienst verwenden: Was tun Sie, wenn Sie keinen Zugriff auf Ihren Account mehr haben?** Die 3-2-1 Methode: 3 Kopien der Daten, 2 verschiedene Speichermedien, 1 Kopie an einem anderen Ort

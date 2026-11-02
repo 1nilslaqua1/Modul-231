@@ -1,4 +1,4 @@
-Fachbegriffe zum Thema Backup
+## Fachbegriffe zum Thema Backup
 
 Ein Backup ist eine Sicherheitskopie von Daten, die erstellt wird, um Datenverlust zu vermeiden. 
 Gründe für Datenverluste können Hardwaredefekte, Softwarefehler, Schadsoftware oder Bedienungsfehler sein. 

@@ -7,6 +7,6 @@
 ##### Nicht geknackt:
 - Beide Hashes mit Salz
 
-#####Methode:
+##### Methode:
 Ich habe KI gefragt, wie man das schlau anstellt. Anschliessend bin ich auf md5hashing.net gegangen, was nicht geklappt hat.
 Hashes.com war hingegen top, wenige Sekunden und ich wusste den ursprünglichen Wert.

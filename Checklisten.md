@@ -59,7 +59,7 @@ Die folgenden Checklisten wurden anhand der Informationen auf der Webseite des D
 
 ## 05 Datensicherungen erstellen
 - Nein, ich erstelle noch keine regelmässigen Backups.
-- Um diesen Punkt zu erfüllen, werde ich wichtige Daten regelmässig auf einer externen Festplatte oder in einem Cloud-Speicher sichern.
+- Genauer gesagt, erstelle ich im Auftrag des Moduls inzwischen immer wieder Backups :) Aus Eigeniniziative erstellte ich noch kein Backup.
 
 ## 06 Programme aktuell halten
 - Ja, ich installiere Updates für Programme und Anwendungen regelmässig.
